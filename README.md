@@ -1,9 +1,6 @@
-# 👋 MEGHANAND GEJJELA
-<div>
-  <table>
-    <tr>
-      <td>
-        
+# 👋 MEGHANAND GEJJELA    <img src="https://github.com/user-attachments/assets/ab675eb9-40c6-4a45-98f2-6c8b0632a109" width="150px" alt="Profile Image">
+
+
 ```python
 class Meghanand:
     def __init__(self):
@@ -21,12 +18,6 @@ class Meghanand:
     def life_quotes(self):
         return "💡 Turning caffeine into code and creativity into solutions."
 ```
-  </td>
-        <td>
-         <img src="https://github.com/user-attachments/assets/ab675eb9-40c6-4a45-98f2-6c8b0632a109" width="300px" alt="Profile Image">
-      </td>
-</tr>
-</table> </div>
 
 # 🌐 Socials:
 
